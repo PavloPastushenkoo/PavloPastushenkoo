@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 👨🏻‍💻 **Full Stack Developerу** turning coffee into code.
+ 👨🏻‍💻 **Full Stack Developer** turning coffee into code.
  
  📚 I’m currently learning **Angular, C++, 3D Modelling**
  
