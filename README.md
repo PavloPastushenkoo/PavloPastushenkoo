@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 **Full Stack Developer**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
