@@ -11,7 +11,7 @@
  
  👨🏻‍💻 **Full Stack Developerу** turning coffee into code.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Angular, C++, 3D Modelling**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
