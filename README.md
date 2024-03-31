@@ -15,7 +15,7 @@
 
 💬 Ask me about **anything [here](https://github.com/PavloPastushenkoo/PavloPastushenkoo/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Specialized in turning **creative** ideas into **functional** and innovative solutions
 
  </div>
  
