@@ -12,6 +12,8 @@
  👨🏻‍💻 **Full Stack Developerу** turning coffee into code.
  
  📚 I’m currently learning **Angular, C++, 3D Modelling**
+ 
+ I'm capable of conversing fluently in **English󠁧󠁢󠁥󠁮󠁧󠁢󠁥󠁮, Italian, and Russian**
 
 💬 Ask me about **anything [here](https://github.com/PavloPastushenkoo/PavloPastushenkoo/issues)**
 
