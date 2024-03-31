@@ -13,7 +13,7 @@
  
  📚 I’m currently learning **Angular, C++, 3D Modelling**
  
- I'm capable of conversing fluently in **English󠁧󠁢󠁥󠁮󠁧󠁢󠁥󠁮, Italian, and Russian**
+ 🗣️ I'm capable of conversing fluently in **English󠁧󠁢󠁥󠁮󠁧󠁢󠁥󠁮, Italian, and Russian**
 
 💬 Ask me about **anything [here](https://github.com/PavloPastushenkoo/PavloPastushenkoo/issues)**
 
@@ -22,7 +22,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:paveldp999@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
