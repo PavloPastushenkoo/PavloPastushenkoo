@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 👨🏻‍💻 **Full Stack Developerу**
+ 👨🏻‍💻 **Full Stack Developerу**turning coffee into code.
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
