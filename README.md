@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+Hello!+👋;+I'm+Pasha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Hello!+👋;+I'm+Pasha!;" />
 </h1>
 
 <h3 align="center">Junior Front-End Developer from Ukraine🇺🇦, based in Italy🇮🇹</h3>
